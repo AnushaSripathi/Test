@@ -11,3 +11,6 @@ def ex2(serverName, nodeName):
    global AdminConfig
    global AdminTask
    global AdminApp
+hhhh
+mllkh
+kbkj
